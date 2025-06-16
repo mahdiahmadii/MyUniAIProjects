@@ -18,7 +18,6 @@ Deep learning project for binary fire detection using transfer learning with VGG
 ```bash
 git clone https://github.com/mahdiahmadii/MyUniAIProjects.git
 cd MyUniAIProjects
-# Navigate to specific project folder and follow individual README instructions
 ```
 
 ## 📞 Contact
